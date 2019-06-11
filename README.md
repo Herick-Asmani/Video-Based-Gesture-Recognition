@@ -1,6 +1,7 @@
 DATASET:
+
 The dataset used for this project is Cambridge Hand Gesture Dataset. The data set consists of 900 image sequences of 9 gesture classes, which are defined by 3 primitive hand shapes and 3 primitive motions. 
-Each class contains 100 image sequences (5 different illuminations x 10 arbitrary motions x 2 subjects).
+Each class contains 100 image sequences (5 different illuminations x 10 arbitrary motions xÂ 2 subjects).
 
 
 INSTRUCTIONS:
